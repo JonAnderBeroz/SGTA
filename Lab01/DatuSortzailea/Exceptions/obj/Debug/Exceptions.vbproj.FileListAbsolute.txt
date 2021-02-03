@@ -1,0 +1,10 @@
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\bin\Debug\Exceptions.dll
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\bin\Debug\Exceptions.pdb
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\bin\Debug\Exceptions.xml
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\obj\Debug\Exceptions.vbprojAssemblyReference.cache
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\obj\Debug\Exceptions.Resources.resources
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\obj\Debug\Exceptions.vbproj.GenerateResource.cache
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\obj\Debug\Exceptions.vbproj.CoreCompileInputs.cache
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\obj\Debug\Exceptions.dll
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\obj\Debug\Exceptions.xml
+E:\uni\3.maila\SGTA\Lab01\DatuSortzailea\Exceptions\obj\Debug\Exceptions.pdb

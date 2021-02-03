@@ -1,0 +1,10 @@
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\bin\Debug\BEZaren_Kalkulua_DDL.dll
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\bin\Debug\BEZaren_Kalkulua_DDL.pdb
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\bin\Debug\BEZaren_Kalkulua_DDL.xml
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.vbprojAssemblyReference.cache
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.Resources.resources
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.vbproj.GenerateResource.cache
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.vbproj.CoreCompileInputs.cache
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.dll
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.xml
+E:\uni\3.maila\Lab01\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.pdb
