@@ -1,0 +1,185 @@
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbprojAssemblyReference.cache
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.Resources.resources
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.GenerateResource.cache
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.CoreCompileInputs.cache
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\BEZWebApp.dll.config
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\BEZWebApp.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\BEZWebApp.pdb
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\BEZWebApp.xml
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\csc.exe
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\csc.exe.config
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\csc.rsp
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\csi.exe
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\csi.exe.config
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\csi.rsp
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Console.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\vbc.exe
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\vbc.rsp
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\BEZ.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.CopyComplete
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.dll
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.xml
+C:\Users\Mariane\Documents\Visual Studio 2017\Projects\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.pdb
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\BEZWebApp.dll.config
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\BEZWebApp.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\BEZWebApp.pdb
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\BEZWebApp.xml
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\csc.exe
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\csc.exe.config
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\csc.rsp
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\csi.exe
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\csi.exe.config
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\csi.rsp
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Console.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\vbc.exe
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\vbc.exe.config
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\vbc.rsp
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\BEZ.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbprojAssemblyReference.cache
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.Resources.resources
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.GenerateResource.cache
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.CoreCompileInputs.cache
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.CopyComplete
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.dll
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.xml
+C:\Users\ehu\Downloads\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.pdb
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\BEZWebApp.dll.config
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\BEZWebApp.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\BEZWebApp.pdb
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\BEZWebApp.xml
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\csc.exe
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\csc.exe.config
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\csc.rsp
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\csi.exe
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\csi.exe.config
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\csi.rsp
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.AppContext.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Console.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Compression.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.IO.Pipes.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.AccessControl.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Claims.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.ValueTuple.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XPath.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\vbc.exe
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\vbc.exe.config
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\vbc.rsp
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\VBCSCompiler.exe
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\BEZaren_Kalkulua_DDL.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\BEZaren_Kalkulua_DDL.pdb
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\BEZaren_Kalkulua_DDL.xml
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbprojAssemblyReference.cache
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.Resources.resources
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.GenerateResource.cache
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.CoreCompileInputs.cache
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.vbproj.CopyComplete
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.xml
+E:\uni\3.maila\SGTA\Lab01\BEZaWindowsBezeroa\BEZWebApp\BEZWebApp\obj\Debug\BEZWebApp.pdb

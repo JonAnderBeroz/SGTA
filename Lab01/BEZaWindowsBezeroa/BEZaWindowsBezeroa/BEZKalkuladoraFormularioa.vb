@@ -7,8 +7,8 @@
                 Dim K As New BEZaren_Kalkulua_DDL.BEZKalkulatu(ComboBox1.SelectedItem.ToString(), TextBox1.Text())
                 ordainduBeharrekoa.Text = "Ordaindu beharrekoa: " + TextBox1.Text()
                 BEZaMota.Text = "BEZ mota: " + ComboBox1.SelectedItem.ToString()
-                totalaBEZaGabe.Text = "Totala BEZa gabe" + Format(K.TotalaBEZikGabe(), ".##")
-                BEZa.Text = "BEZa" + Format(K.BEZa(), ".##")
+                totalaBEZaGabe.Text = "Totala BEZa gabe: " + Format(K.TotalaBEZikGabe(), ".##")
+                BEZa.Text = "BEZa: " + Format(K.BEZa(), ".##")
             End If
         Catch ex As Exception
             MsgBox("Ordaindu beharreko balioa ez da zuzena")

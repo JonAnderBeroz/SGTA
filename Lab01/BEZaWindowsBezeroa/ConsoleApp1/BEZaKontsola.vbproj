@@ -48,7 +48,8 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BEZaren_Kalkulua_DDL">
+    <Reference Include="BEZaren_Kalkulua_DDL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.dll</HintPath>
     </Reference>
     <Reference Include="System" />

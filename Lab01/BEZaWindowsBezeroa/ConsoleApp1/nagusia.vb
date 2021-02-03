@@ -7,7 +7,7 @@
             Dim BEZaMota As String
             Console.WriteLine("Sartu ordaindu beharrekoa")
             ordainduBeharrekoa = Console.ReadLine()
-            Console.WriteLine("Sartu BEZa mota:(orokorra, murriztua,oinarrizko produktuena)")
+            Console.WriteLine("Sartu BEZa mota:(orokorra, murriztua,oinarrizko produktua)")
             BEZaMota = Console.ReadLine()
             Dim K As New BEZaren_Kalkulua_DDL.BEZKalkulatu(BEZaMota, ordainduBeharrekoa)
             Console.WriteLine("Ordaindu Beharrekoa: " & ordainduBeharrekoa)

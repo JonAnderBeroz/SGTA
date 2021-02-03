@@ -8,11 +8,11 @@
 
     Public Function BEZa() As Double
         If Me.BEZMota.Equals("orokorra") Then
-            BEZa = Me.OrdainduBeharrekoa * 0.21
+            BEZa = Me.OrdainduBeharrekoa / 1.21
         ElseIf Me.BEZMota.Equals("murriztua") Then
-            BEZa = Me.OrdainduBeharrekoa * 0.1
+            BEZa = Me.OrdainduBeharrekoa / 1.1
         ElseIf Me.BEZMota.Equals("oinarrizko produktua") Then
-            BEZa = Me.OrdainduBeharrekoa * 0.04
+            BEZa = Me.OrdainduBeharrekoa / 1.04
         Else
             BEZa = 0
         End If
