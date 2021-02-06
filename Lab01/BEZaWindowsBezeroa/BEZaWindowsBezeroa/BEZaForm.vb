@@ -7,7 +7,7 @@ Public Class BEZaForm
         Dim beztotal As Double
         Dim sinbez As Double
         If (Me.txtPrecioProd.Text.Equals("")) Then
-            MsgBox("Eres tonto")
+            MsgBox("Sartu diru kopurua")
         Else
             Try
                 prezioa = Me.txtPrecioProd.Text()
@@ -18,7 +18,7 @@ Public Class BEZaForm
                 Me.txtConBEZ.Text = Format(beztotal, ".##")
                 prezioa = Me.txtPrecioProd.Text
             Catch ex As Exception
-                MsgBox("Eres tonto" + ex.Message)
+                MsgBox("Eror")
             End Try
 
         End If

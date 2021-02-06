@@ -73,7 +73,7 @@ Partial Class BEZaForm
         '
         Me.cbBEZ.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cbBEZ.FormattingEnabled = True
-        Me.cbBEZ.Items.AddRange(New Object() {"orokorra", "murriztua", "produktuena"})
+        Me.cbBEZ.Items.AddRange(New Object() {"orokorra", "murriztua", "oinarrizko produktua"})
         Me.cbBEZ.Location = New System.Drawing.Point(296, 127)
         Me.cbBEZ.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.cbBEZ.Name = "cbBEZ"
@@ -135,7 +135,7 @@ Partial Class BEZaForm
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.Name = "BEZaForm"
-        Me.Text = "Form1"
+        Me.Text = "BEZa  Kalkulagailua"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
