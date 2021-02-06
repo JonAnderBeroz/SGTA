@@ -48,9 +48,11 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BEZaren_Kalkulua_DDL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.dll</HintPath>
+    <Reference Include="BEZaren_Kalkulua_DDL">
+      <HintPath>..\..\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\bin\Debug\BEZaren_Kalkulua_DDL.dll</HintPath>
+    </Reference>
+    <Reference Include="KopuruDesegokiaException">
+      <HintPath>..\..\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\bin\Debug\KopuruDesegokiaException.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -77,6 +79,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BEZaForm.designer.vb">
+      <DependentUpon>BEZaForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BEZaForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="BEZKalkuladoraFormularioa.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +109,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="BEZaForm.resx">
+      <DependentUpon>BEZaForm.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BEZKalkuladoraFormularioa.resx">
       <DependentUpon>BEZKalkuladoraFormularioa.vb</DependentUpon>
     </EmbeddedResource>
@@ -122,6 +133,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

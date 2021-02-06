@@ -14,8 +14,9 @@ Public Class BEZWeb
         BEZmota = Me.DropDownBEZmota.SelectedItem.Text
         dirua = Me.txtDirua.Text
         Dim ddlBEZ As New BEZaren_Kalkulua_DDL.BEZKalkulatu(BEZmota, dirua)
-        sinbez = Format(ddlBEZ.BEZa, ".##")
-        beztotal = Format(ddlBEZ.TotalaBEZikGabe, ".##")
+        sinbez = Format(ddlBEZ.BEZa(), ".##")
+        beztotal = Format(ddlBEZ.TotalaBEZikGabe(), ".##")
+
         Me.txtBEZgabe.Text = sinbez
         Me.txtBEZa.Text = beztotal
     End Sub

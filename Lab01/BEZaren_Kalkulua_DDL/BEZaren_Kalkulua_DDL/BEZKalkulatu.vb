@@ -2,8 +2,12 @@
     Private BEZMota As String
     Private OrdainduBeharrekoa
     Public Sub New(ByVal bezMota As String, ByVal ordainduBeharrekoa As Double)
-        Me.BEZMota = bezMota
-        Me.OrdainduBeharrekoa = ordainduBeharrekoa
+        If (ordainduBeharrekoa < 0) Then
+            Throw New KopuruDesegokiaException.kopuruDesegokiaException()
+        Else
+            Me.BEZMota = bezMota
+            Me.OrdainduBeharrekoa = ordainduBeharrekoa
+        End If
     End Sub
 
     Public Function BEZa() As Double

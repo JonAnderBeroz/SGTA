@@ -47,6 +47,9 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="KopuruDesegokiaException">
+      <HintPath>..\KopuruDesegokiaException\bin\Debug\KopuruDesegokiaException.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />

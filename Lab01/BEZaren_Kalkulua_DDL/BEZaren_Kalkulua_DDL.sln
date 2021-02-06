@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BEZaren_Kalkulua_DDL", "BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL.vbproj", "{9BCE4A1B-DC3C-411F-9D38-B55EA974467F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KopuruDesegokiaException", "KopuruDesegokiaException\KopuruDesegokiaException.vbproj", "{A9B0900A-68ED-4E13-8B54-C5E3E1D1FD58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9BCE4A1B-DC3C-411F-9D38-B55EA974467F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BCE4A1B-DC3C-411F-9D38-B55EA974467F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BCE4A1B-DC3C-411F-9D38-B55EA974467F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B0900A-68ED-4E13-8B54-C5E3E1D1FD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B0900A-68ED-4E13-8B54-C5E3E1D1FD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B0900A-68ED-4E13-8B54-C5E3E1D1FD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B0900A-68ED-4E13-8B54-C5E3E1D1FD58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\bin\Debug\KopuruDesegokiaException.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\bin\Debug\KopuruDesegokiaException.pdb
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\bin\Debug\KopuruDesegokiaException.xml
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\obj\Debug\KopuruDesegokiaException.Resources.resources
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\obj\Debug\KopuruDesegokiaException.vbproj.GenerateResource.Cache
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\obj\Debug\KopuruDesegokiaException.dll
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\obj\Debug\KopuruDesegokiaException.xml
+E:\uni\3.maila\SGTA\Lab01\BEZaren_Kalkulua_DDL\KopuruDesegokiaException\obj\Debug\KopuruDesegokiaException.pdb

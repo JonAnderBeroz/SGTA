@@ -50,7 +50,10 @@
   <ItemGroup>
     <Reference Include="BEZaren_Kalkulua_DDL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\obj\Debug\BEZaren_Kalkulua_DDL.dll</HintPath>
+      <HintPath>..\..\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\bin\Debug\BEZaren_Kalkulua_DDL.dll</HintPath>
+    </Reference>
+    <Reference Include="KopuruDesegokiaException">
+      <HintPath>..\..\BEZaren_Kalkulua_DDL\BEZaren_Kalkulua_DDL\bin\Debug\KopuruDesegokiaException.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
